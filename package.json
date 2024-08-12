@@ -1,6 +1,6 @@
 {
   "name": "cdg-test-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "cdg",
     "test",
@@ -8,6 +8,10 @@
   ],
   "author": "Choi Deok Gyeong",
   "description": "CDG's test NPM package.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjcdg1/cdg-test-npm.git"
+  },
   "license": "ISC",
   "files": [
     "src/",
